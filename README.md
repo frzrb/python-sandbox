@@ -4,6 +4,8 @@ A Python sandbox for learning and experimenting.
 
 ## Folders
 
+**advent-of-code**: [Advent of Code](https://adventofcode.com/) entries
+
 **test**: Folder for test artifacts
 
 ## Files
